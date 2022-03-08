@@ -6,6 +6,6 @@ function addUser() {
     localStorage.setItem("player1_name", player1_name);
     localStorage.setItem("player2_name", player2_name);
 
-    window.location = "maths_game.html";
+    window.location = "maths_page.html";
 
 }
